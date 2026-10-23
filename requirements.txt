@@ -1,0 +1,6 @@
+osmium 
+geopandas 
+pyarrow ## needed if I want to receive geoparquet files (but conditionals would have to be defined, not done yet)
+ipykernel
+numpy 
+shapely
